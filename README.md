@@ -8,7 +8,7 @@ S → 0S0 | 1S1 | 0 | 1 | ε
 5.	Write a C program to check whether a given string belongs to the language defined by a Context Free Grammar (CFG)
 S → 0S0 | A	     A → 1A | ε
 6.	Write a C program to check whether a given string belongs to the language defined by a Context Free Grammar (CFG)
-S → 0S1 | ε
+S → 0S1 | ε 
 7.	Write a C program to check whether a given string belongs to the language defined by a Context Free Grammar (CFG)
 S → A101A,	A → 0A | 1A | ε
 8.	Write a C program to check whether a given string belongs to the language defined by a Context Free Grammar (CFG)
