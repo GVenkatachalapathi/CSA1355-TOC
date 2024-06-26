@@ -12,7 +12,7 @@ S → 0S1 | ε
 7.	Write a C program to check whether a given string belongs to the language defined by a Context Free Grammar (CFG)
 S → A101A,	A → 0A | 1A | ε
 8.	Write a C program to check whether a given string belongs to the language defined by a Context Free Grammar (CFG)
-S → aS/ε
+S → aS/ε 
 
 9.	Write a C program to simulate a  Finite Automata (NFA) for the given language representing strings that start with b and end with a
 10.	Write a C program to simulate a  Finite Automata (NFA) for the given language representing strings that start with 1 and end with 1
